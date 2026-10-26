@@ -11,7 +11,7 @@ int main() {
 int  a, b, s=0;
 // ввод
 cin >> a >> b;
-for(int i=a;i<=b;i++);
+for(int i=a;i<=b;i++)
 {
 s=s+i;
 }
